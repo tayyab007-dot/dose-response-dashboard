@@ -1,0 +1,7 @@
+compound,verdict,lowest_effective_conc,risk,ic50,r2
+5-fluorouracil,No clear effect in tested range,,Not determined,,
+AG-1478,No clear effect in tested range,,Not determined,,
+anisomycin,Dose-dependent toxicity,0.3,High (toxic at low concentration),0.232,0.5
+indirubin monoxime,No clear effect in tested range,,Not determined,,
+olomoucine,No clear effect in tested range,,Not determined,,
+tunicamycin,Toxic at highest dose only,50.0,Low (toxic only at very high concentration),,0.45
