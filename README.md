@@ -8,7 +8,7 @@ numbers change with drug concentration, and reports an honest toxicity
 verdict per compound through an interactive dashboard.
 
 ## Run it (free, no GPU, no login)
-1. [Open in Colab](https://colab.research.google.com/github/<USERNAME>/dose-response-dashboard/blob/main/dose_response.ipynb)
+1. [Open in Colab](https://colab.research.google.com/github/tayyab007-dot/dose-response-dashboard/blob/main/dose_response.ipynb)
 2. Runtime -> Run all (about 6-8 minutes; downloads about 800 MB)
 3. Open the Gradio link printed at the end of the cell, pick a
    compound, press Submit.
